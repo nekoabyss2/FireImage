@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1085197184003",
+    "firebase_url": "https://mobile-pro-egci428.firebaseio.com",
+    "project_id": "mobile-pro-egci428",
+    "storage_bucket": "mobile-pro-egci428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085197184003:android:d80170284f476d4a",
+        "android_client_info": {
+          "package_name": "com.egci428.fireimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085197184003-2bc65prbjf2htanjoco1dlatvv6jkfl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egci428.fireimage",
+            "certificate_hash": "a19eff8c6012e847c0fcde389271cb0d245a1af3"
+          }
+        },
+        {
+          "client_id": "1085197184003-67s75u134lvn82c3elfpiis7jga4p97c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvV06XOdD30MSaSN1MzA-xjLigrY5dqLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085197184003-67s75u134lvn82c3elfpiis7jga4p97c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
